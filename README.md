@@ -1,7 +1,12 @@
-## Hi there 👋
 
+## Electronic engineering student :man_student:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mechanix97&layout=compact)](https://github.com/mechanix97/github-readme-stats)
+
+
+🌱 I’m currently learning RUST 🦀
 <!--
-**mechanix97/mechanix97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ivolis/ivolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
