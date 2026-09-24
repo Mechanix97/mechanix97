@@ -1,5 +1,5 @@
 
-## Electronic engineering student :man_student:
+## Electronic engineer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mechanix97&layout=compact)](https://github.com/mechanix97/github-readme-stats)
 
