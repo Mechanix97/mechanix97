@@ -24,10 +24,10 @@ firmware up to the Rust server that talks to them.
 
 ## 🛠️ Tech I work with
 
-**Languages:** Rust · Python · C / C++ · SQL / PL-SQL · Solidity · Java
-**AI:** LLMs · RAG · vector databases · self-hosted inference · Hugging Face · OpenAI and Anthropic APIs
-**Embedded:** STM32 · ESP32 · ARM Cortex-M · KiCad · PCB design · MQTT
-**Infra:** Docker · CI/CD · Linux · PostgreSQL · Prometheus and Grafana
+- **Languages:** Rust · Python · C / C++ · SQL / PL-SQL · Solidity · Java
+- **AI:** LLMs · RAG · vector databases · self-hosted inference · Hugging Face · OpenAI and Anthropic APIs
+- **Embedded:** STM32 · ESP32 · ARM Cortex-M · KiCad · PCB design · MQTT
+- **Infra:** Docker · CI/CD · Linux · PostgreSQL · Prometheus and Grafana
 
 ## 📫 Where to find me
 
